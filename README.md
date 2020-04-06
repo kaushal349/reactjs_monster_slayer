@@ -1,3 +1,9 @@
+POINTS :
+1. This is clone of vue_monster_slayer although logs haven't been included
+2. setState is an async function, we can pass callback function as an parameter to it!!!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
